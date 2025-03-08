@@ -1,5 +1,5 @@
 {
-  "name": "playstation-cd-store",
+  "name": "playstation-cd-store-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
